@@ -1,0 +1,22 @@
+* 
+{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+body 
+{
+	background-color: #ababab;
+	overflow-x: hidden;
+}
+
+.link 
+{
+	font-size: 30px;
+}
+
+.instructions-headers
+{
+	font-size: 25px;
+	font-weight: bold;
+}
